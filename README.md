@@ -10,6 +10,13 @@
         <table style="margin-left:auto;margin-right:auto">
             <tr>
                 <td style="vertical-align:top">
+                    <strong> <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="17" style="vertical-align:down; margin:4px"/> Linux distribution specialties <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="17" style="vertical-align:down; margin:4px"/> </strong>
+                    <br/>
+                    <img src="https://img.shields.io/badge/RedHat-000000?style=flat&logo=redhat&logoColor=efefef&color=6c71c4" alt="RedHat" />
+                    <img src="https://img.shields.io/badge/RockyLinux-000000?style=flat&logo=rockylinux&logoColor=efefef&color=6c71c4" alt="RockyLinux" />
+                    <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=efefef&color=6c71c4" alt="Ubuntu" />
+                    <img src="https://img.shields.io/badge/Fedora-000000?style=flat&logo=fedora&logoColor=efefef&color=6c71c4" alt="Fedora" />
+                    <br/>
                     <strong>📜 Languages 📜</strong>
                     <br/>
                     <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=efefef&color=6c71c4" alt="Python" />
