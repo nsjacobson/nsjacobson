@@ -41,6 +41,7 @@
                     <img src="https://img.shields.io/badge/Prometheus-000000?style=flat&logo=prometheus&logoColor=efefef&color=859900" alt="Prometheus" />
                     <img src="https://img.shields.io/badge/Grafana-000000?style=flat&logo=grafana&logoColor=efefef&color=859900" alt="Grafana" />
                     <img src="https://img.shields.io/badge/DataDog-000000?style=flat&logo=datadog&logoColor=efefef&color=859900" alt="Datadog" />
+                    <img src="https://img.shields.io/badge/Nagios-000000?style=flat&logo=nagios&logoColor=efefef&color=859900" alt="Nagios" />
                     <img src="https://img.shields.io/badge/Let%27s%20Encrypt-000000?style=flat&logo=letsencrypt&logoColor=efefef&color=859900" alt="Vault" />
                     <br/>
                     <strong>🛠 Build and Testing Frameworks 🛠</strong>
