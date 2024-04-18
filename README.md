@@ -1,6 +1,6 @@
 <div>
     <div id="header" align="center">
-        <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=640&size=48&duration=2500&pause=1500&center=true&vCenter=true&random=false&width=700&lines=Nathan+Jacobson;DevOps+Engineer;Linux;Open+Source;Cloud" alt="Typing SVG" /></a></h1>
+        <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=640&size=48&duration=2500&pause=1500&center=true&vCenter=true&random=false&width=700&lines=Nathan+Jacobson;Cloud+Professional;Linux;Open+Source;" alt="Typing SVG" /></a></h1>
         <p>
             <a href="https://www.linkedin.com/in/nathansjacobson/"><img src="https://img.shields.io/badge/Nathan%20Jacobson-839496?style=flat&logo=linkedin&labelColor=268bd2" alt="LinkedIn" /></a>
         </p>
